@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="15"
+    density="hdpi"
+    format="7"
+    timestamp="8538185123531"
+    token="-8393645574631748571" >
+
+    <task
+        name="javac"
+        duration="3396" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2600" />
+    <task
+        name="verifier"
+        duration="1654" />
+
+    <artifact
+        location="F:\workspace\MangaFinder\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="8538185123531" >
+        <artifact
+            location="F:\workspace\MangaFinder\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

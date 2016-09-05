@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\workspace\MangaFinder\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="e9fc9027388a7b401bd4ef9b899a818093f12e12">
+        <dex dex="F:\workspace\MangaFinder\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_20043aa78a2449b26a1d37f8a29b42d0dcf664c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Win7\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\workspace\MangaFinder\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_bea9fa240bbbc81e941533ca1cb8536ba6012eb6.jar" />
+    </item>
+    <item
+        jar="F:\workspace\MangaFinder\app\libs\jsoup-1.9.2.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="28e5375920a4f6e73123e45ab6ad3b8bc93b0869">
+        <dex dex="F:\workspace\MangaFinder\app\build\intermediates\pre-dexed\debug\jsoup-1.9.2_147d3ee72e6453e7c775ee5d2633297400c8158b.jar" />
+    </item>
+    <item
+        jar="F:\workspace\MangaFinder\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="cae6a82ff97d7af5fe43b488c5e7769e3e8b9bc2">
+        <dex dex="F:\workspace\MangaFinder\app\build\intermediates\pre-dexed\debug\instant-run_2b6ad509ac733becf2de1e401def9840f1159e2c.jar" />
+    </item>
+
+</items>
